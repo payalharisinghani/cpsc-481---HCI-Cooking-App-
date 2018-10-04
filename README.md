@@ -1,7 +1,4 @@
-# cpsc-481---HCI-Cooking-App-
-code and report for HCI - cooking instructor app
-
-# CPSC481
+# CPSC481_HCI_Cooking_App
 
 
 ## Slack Channels
