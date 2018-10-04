@@ -1,11 +1,5 @@
 # CPSC481_HCI_Cooking_App
 
-
-## Slack Channels
-[Group](https://cpsc481-groupproject.slack.com/messages/CCSC250JE/)
-
-[Tutorial](https://cpsc481-f18.slack.com/messages/CCPN22HM3/)
-
 ## Section 1: Identification and Requirements
 [Survey questions](https://docs.google.com/document/d/1aZtOV8vQwP3BRJEpx12X00Pn55m_B2PGHYAUcfP8Xgo/edit?ts=5b9b0584)
 
