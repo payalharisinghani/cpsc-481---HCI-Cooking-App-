@@ -1,0 +1,28 @@
+# cpsc-481---HCI-Cooking-App-
+code and report for HCI - cooking instructor app
+
+# CPSC481
+
+
+## Slack Channels
+[Group](https://cpsc481-groupproject.slack.com/messages/CCSC250JE/)
+
+[Tutorial](https://cpsc481-f18.slack.com/messages/CCPN22HM3/)
+
+## Section 1: Identification and Requirements
+[Survey questions](https://docs.google.com/document/d/1aZtOV8vQwP3BRJEpx12X00Pn55m_B2PGHYAUcfP8Xgo/edit?ts=5b9b0584)
+
+[Phase 1 & 2 Presentation](https://docs.google.com/presentation/d/1odQxsC5-hy65Jv9tI_2j17J6pPpG1DOGys7MqZ4-d9c/edit?usp=sharing)
+
+[Phase 3 & 4 Presentation](https://docs.google.com/presentation/d/1t37DAhRleHcQHBM65k41alwYc_BRLdoCilP2269evR8/edit#slide=id.p)
+
+## Members
+[Evan Quan](https://github.com/EvanQuan)
+
+[Kristopher Tang](https://github.com/KhyriiS)
+
+[Neil Chulpongsatorn](https://github.com/neilchul)
+
+[Mahsa Lotfi](https://github.com/mahsaLotfi)
+
+[Payal Harisinghani](https://github.com/payalharisinghani)
